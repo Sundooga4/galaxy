@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'galaxy.apps.GalaxyConfig',
+    'content_for_evrbd.apps.ContentForEvrbdConfig',
 ]
 
 MIDDLEWARE = [
